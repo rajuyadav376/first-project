@@ -1,0 +1,26 @@
+.main{
+  background-image: url('../public/img.jpg');
+  height: 920px;
+  text-align: center;
+}
+
+#head{
+  font-size: 120px;
+  color: whitesmoke;
+  padding-bottom: 150px;
+}
+.contact{
+  font-size: xx-large;
+}
+#btn{
+  margin: 20px;
+}
+#btt{
+  color: white;
+  background-color: red;
+  border-radius: 50px;
+  font-size: 20px;
+}
+li{
+  list-style: none;
+}
